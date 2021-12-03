@@ -1,0 +1,44 @@
+$ pkg install git
+Checking availability of current mirror: ok
+Ign:2 https://dl.bintray.com/grimler/game-packages-24 games InRelease
+Get:1 https://packages.termux.org/apt/termux-main stable InRelease [14.0 kB]
+Ign:3 https://dl.bintray.com/grimler/science-packages-24 science InRelease
+Err:4 https://dl.bintray.com/grimler/game-packages-24 games Release
+  403  Forbidden
+Err:5 https://dl.bintray.com/grimler/science-packages-24 science Release
+  403  Forbidden
+Get:6 https://packages.termux.org/apt/termux-main stable/main aarch64 Packages [293 kB]
+Reading package lists... Done
+E: The repository 'https://dl.bintray.com/grimler/game-packages-24 games Release' does not have a Release file.
+N: Metadata integrity can't be verified, repository is disabled now.
+N: Possible cause: repository is under maintenance or down (wrong sources.list URL?).
+E: The repository 'https://dl.bintray.com/grimler/science-packages-24 science Release' does not have a Release file.
+N: Metadata integrity can't be verified, repository is disabled now.
+N: Possible cause: repository is under maintenance or down (wrong sources.list URL?).
+$ pkg install phyton2
+Checking availability of current mirror: ok
+Reading package lists... Done
+Building dependency tree
+Reading state information... Done
+E: Unable to locate package phyton2
+$ git clone https://github.com/Djqwak/Al
+The program git is not installed. Install it by executing:
+ pkg install git
+$ cd facebook-cracke
+bash: cd: facebook-cracke: No such file or directory
+$ chmod + x * facebook-cracker.py
+chmod: cannot access 'x': No such file or directory
+chmod: cannot access 'facebook-cracker.py': No such file or directory
+$ git clone https://github.com/NaserHacker/facebook-cracker
+The program git is not installed. Install it by executing:
+ pkg install git
+$ cd facebook-cracker
+bash: cd: facebook-cracker: No such file or directory
+$ chmod +x * facebook-cracker.py
+chmod: cannot access 'facebook-cracker.py': No such file or directory
+$ python2 facebook-cracker.py
+The program python2 is not installed. Install it by executing:
+ pkg install python2
+$ pass.txt ahmed.raheem.583
+pass.txt: الأمر غير موجود
+
